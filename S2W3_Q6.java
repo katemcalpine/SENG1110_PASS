@@ -3,7 +3,7 @@
 // Author: Kate McAlpine
 // Email: kate.mcalpine@newcastle.edu.au
 // Created: 6th March, 2022
-// Attached to worksheet: 'Admin and Getting Started with Java' (Session 1, Week 2)
+// Attached to worksheet: 'Java Basics' (Session 2, Week 3)
 //--------------------------------------------------------------------
 
 import java.util.Scanner;
