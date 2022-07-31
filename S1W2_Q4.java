@@ -1,3 +1,11 @@
+//--------------------------------------------------------------------
+// Title: S1W2_Q4.java
+// Author: Kate McAlpine
+// Email: kate.mcalpine@newcastle.edu.au
+// Created: 2nd March, 2022
+// Attached to worksheet: 'Admin and Getting Started with Java' (Session 1, Week 2)
+//--------------------------------------------------------------------
+
 import java.util.*;
 public class Main
 {
