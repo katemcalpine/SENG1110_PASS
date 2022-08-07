@@ -8,26 +8,35 @@
 
 public class Main 
 {
-    public static void main(String[] args) {
-        if ((a < 5) && (b > 0)){
+    public static void main(String[] args) 
+    {
+        if ((a < 5) && (b > 0))
+        {
             System.out.println("Check 1.");
         }
-        else if ((a >= 5) || (b < 1)) {
+        else if ((a >= 5) || (b < 1)) 
+        {
             System.out.println("Check 2.");
         }
-        else {
+        else 
+        {
             System.out.println("Check 3.");
         }
     }
 }
 
-public class Main {
-    public static void main(String[] args) {
-        if ((a == 5) && (b > 0)) {
+public class Main 
+{
+    public static void main(String[] args) 
+    {
+        if ((a == 5) && (b > 0)) 
+        {
             System.out.println("Check 1.");
-            if ((a >= 5) || (b < 1)) {
+            if ((a >= 5) || (b < 1)) 
+            {
                 System.out.println("Check 2.");
-                if ((a > 0) && (b < 3)) {
+                if ((a > 0) && (b < 3)) 
+                {
                     System.out.println("Check 3.");
                     System.exit(0);
                 }
