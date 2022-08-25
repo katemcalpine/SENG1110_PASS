@@ -5,3 +5,15 @@
 // Created: 19th August, 2022
 // Attached to worksheet: 'Loop Statements – While, Do-While, For' (Session 4, Week 5)
 //--------------------------------------------------------------------
+
+public class Main
+{
+    public static void main(String[] args) {
+        int counter = 34;
+        int m = 6;
+        int resultDiv = counter / m;
+        int resultMod = counter % m;
+        System.out.println(resultDiv);
+        System.out.println(resultMod);
+    }
+}
