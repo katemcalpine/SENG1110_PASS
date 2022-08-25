@@ -13,7 +13,7 @@ public class Main
         int m = 6;
         int resultDiv = counter / m;
         int resultMod = counter % m;
-        System.out.println(resultDiv);
-        System.out.println(resultMod);
+        System.out.println("Result of Division: " + resultDiv);
+        System.out.println("Result of Modulo: " + resultMod);
     }
 }
