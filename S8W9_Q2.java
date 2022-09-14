@@ -1,5 +1,5 @@
 //--------------------------------------------------------------------
-// Title: S8W7_Q2.java
+// Title: S8W9_Q2.java
 // Author: Kate McAlpine
 // Email: kate.mcalpine@newcastle.edu.au
 // Created: 4th May, 2022
