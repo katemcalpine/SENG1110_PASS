@@ -3,7 +3,7 @@
 // Author: Kate McAlpine
 // Email: kate.mcalpine@newcastle.edu.au
 // Created: 10th May, 2022
-// Attached to worksheet: 'Classes and Methods II' (Session 8, Week 9)
+// Attached to worksheet: 'Arrays I' (Session 9, Week 10)
 //--------------------------------------------------------------------
 
 import java.util.*;
