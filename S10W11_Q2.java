@@ -1,5 +1,5 @@
 //--------------------------------------------------------------------
-// Title: S10W11_Q1.java
+// Title: S10W11_Q2.java
 // Author: Kate McAlpine
 // Email: kate.mcalpine@newcastle.edu.au
 // Created: 17th May, 2022
