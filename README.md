@@ -1,4 +1,4 @@
-# 2022 PASS Worksheet code answers for SENG1110
+# PASS Worksheet code answers for SENG1110
 
 These code answers are attached to worksheets that have been developed as an accessible resource for students who have never even seen an Object Oriented language before.
 
